@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<DataGrpSet />
+	<LiveTrendSet>
+		<LiveTrend ID="1" Vession="1" MaxCurve="1" MaxRecord="1000" Timer="10" TriggAddr="" Trigger="0" Name="Temperatura">
+			<Curve CurveID="Curva1Curva1Curva1Curva1Curva1Curva1Curva1Curva1" DataFormat="105" DigitCount="4.1" WordAddr="HDW140" />
+		</LiveTrend>
+		<LiveTrend ID="2" Vession="1" MaxCurve="1" MaxRecord="1000" Timer="10" TriggAddr="" Trigger="0" Name="Curvas cloro">
+			<Curve CurveID="Curve1Curve1Curve1Curve1Curve1Curve1Curve1Curve1" DataFormat="105" DigitCount="2.3" WordAddr="HDW150" />
+		</LiveTrend>
+		<LiveTrend ID="3" Vession="1" MaxCurve="1" MaxRecord="1000" Timer="10" TriggAddr="" Trigger="0" Name="PH">
+			<Curve CurveID="Curve1Curve1Curve1Curve1Curve1Curve1Curve1Curve1" DataFormat="105" DigitCount="2.2" WordAddr="HDW160" />
+		</LiveTrend>
+		<LiveTrend ID="4" Vession="1" MaxCurve="1" MaxRecord="1000" Timer="10" TriggAddr="" Trigger="0" Name="Turbidez">
+			<Curve CurveID="Curve1Curve1Curve1Curve1Curve1Curve1Curve1Curve1" DataFormat="105" DigitCount="2.3" WordAddr="HDW170" />
+		</LiveTrend>
+	</LiveTrendSet>
+	<RecipeDataSet />
+	<WordAlarmSet>
+		<Alarm WordAddr="41810" DataFormat="105" DigitCount="4 0" GroupID="0" Cloud="0" ID="1" Name="prueba alarma nivel">
+			<ElementAlarm AlarmType="3" bSave="1" bSaveUnChain="0" bVar="0" AlarmValue1="40" AlarmValue2="20" StrIndex="Alarma nivel " notice="0" UseBuzzer="0" ScreenNo="-1" ID="1" Use="0" />
+		</Alarm>
+	</WordAlarmSet>
+	<BitAlarmSet>
+		<Alarm GroupID="1" bitaddr="0206" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="ALARMA SENSOR CLORO" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="1" />
+		<Alarm GroupID="0" bitaddr="0196" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="ALARMA NIVEL" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="2" />
+		<Alarm GroupID="2" bitaddr="041" Trigger="1" bSave="1" bSaveUnChain="0" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0" Use="0" UID="3" />
+	</BitAlarmSet>
+</project>

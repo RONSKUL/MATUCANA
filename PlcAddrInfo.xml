@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0">
+	<AddrInfo ScrnNo="0" HasNoPlcAddr="1">
+		<HMIAddr />
+		<WordAddr>
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:258:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:255:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+			<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:9:0:25600" Len="1" Fast="0" />
+		</WordAddr>
+	</AddrInfo>
+</project>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:230:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:27:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:300:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:301:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:16:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2201:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2201:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:5:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2201:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2200:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:138:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1311:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:139:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1310:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:130:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1315:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:138:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1311:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:139:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1310:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:130:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1315:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:12:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:12:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:12:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:205:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:201:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:202:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:206:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:192:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:195:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:194:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:190:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:190:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:190:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:190:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:190:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:191:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:180:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:500:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:4:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:3:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:65:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:61:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:66:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:67:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:69:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:68:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:70:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:64:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:60:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:62:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:63:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:11:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:14:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:13:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:12:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:1:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:2:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:11:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:14:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:89:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:81:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:84:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:85:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:87:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:86:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:88:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:80:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:82:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:83:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:11:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:14:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:11:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:14:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:70:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:73:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:72:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:71:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:89:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:81:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:84:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:85:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:87:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:86:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:88:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:80:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:82:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:83:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:11:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:10:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:14:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:34:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:33:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:21:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:34:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:33:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:21:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:34:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:33:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:21:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:70:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:70:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:20:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>
+<PLCAddr>
+	<WordAddr>
+		<Add Addr="Conn:Stat:Reg:Addr:ByOrder:JZ_W_1:0:4:0:0:25600" Len="1" Fast="0" />
+	</WordAddr>
+</PLCAddr>

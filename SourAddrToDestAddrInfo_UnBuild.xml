@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project filever="1.0">
+	<SourAddrToDestAddrInfo maxlen="100">
+		<WordAddr ContralAddr="" ConType="0">
+			<Add PLCAddr="413" PLCAddr1="" DstAddr="HDW140" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="412" PLCAddr1="" DstAddr="HDW160" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="410" PLCAddr1="" DstAddr="HDW150" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="415" PLCAddr1="" DstAddr="HDW170" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="422" PLCAddr1="" DstAddr="420" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="HAW26" PLCAddr1="" DstAddr="42526" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="HSW30" PLCAddr1="" DstAddr="4120" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="HSW31" PLCAddr1="" DstAddr="4121" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+			<Add PLCAddr="HSW32" PLCAddr1="" DstAddr="4122" FunType="0" Len="1" Monitor="0" Refresh="0" ContralAddr="" ConType="0" EnableWrite="0" DWord="0" DWordL="0" DWordR="0" DataFormatL="105" DataFormatR="2" DataFormat="105" DigitCount="5 0" HighToLowL="0" HighToLowR="0" HighToLow="0" />
+		</WordAddr>
+		<BitAddr ContralAddr="" ConType="0" />
+	</SourAddrToDestAddrInfo>
+</project>
